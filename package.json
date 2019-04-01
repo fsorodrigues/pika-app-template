@@ -1,0 +1,17 @@
+{
+    "name": "test-pika",
+    "version": "1.0.0",
+    "description": "testing @pika/web",
+    "main": "index.js",
+    "scripts": {
+        "start": "live-server"
+    },
+    "author": "fsorodrigues",
+    "license": "ISC",
+    "devDependencies": {
+        "@pika/web": "^0.3.2",
+        "eslint": "^5.15.3",
+        "live-server": "^1.2.1"
+    },
+    "dependencies": {}
+}
